@@ -1,3 +1,5 @@
+# pip install nibabel
+
 import nibabel as nib
 import matplotlib.pyplot as plt
 import numpy as np
